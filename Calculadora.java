@@ -59,5 +59,5 @@ public class Calculadora {
                 default -> System.out.println("Opción no válida.");
             }
         } // Aquí finaliza el bloque 'try' y el scanner se cierra solo, ya no hace falta "scanner.close()"
-    }g
+    }
 }
