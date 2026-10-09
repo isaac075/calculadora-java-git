@@ -8,7 +8,7 @@ public class Calculadora {
         try (Scanner scanner = new Scanner(System.in)) {
             double num1, num2, resultado;
             int operacion;
-            System.out.println("bienvenido a la calculadora");
+            System.out.println("bienvenido a la calculadora - saludo alternativo");
             System.out.println("=== CALCULADORA BÁSICA EN JAVA ===");
             System.out.println("1. Suma");
             System.out.println("2. Resta");
@@ -59,5 +59,5 @@ public class Calculadora {
                 default -> System.out.println("Opción no válida.");
             }
         } // Aquí finaliza el bloque 'try' y el scanner se cierra solo, ya no hace falta "scanner.close()"
-    }
+    }g
 }
