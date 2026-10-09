@@ -1,6 +1,6 @@
-// Versión 1.0 - Práctica de Entornos de Desarrollo
+// Versión 2.0 - Práctica de Entornos de Desarrollo
 import java.util.Scanner;
-// Versión 1.0 - Práctica de Entornos de Desarrollo
+// Versión 2.0 - Práctica de Entornos de Desarrollo
 public class Calculadora {
     public static void main(String[] args) {
 
@@ -14,7 +14,8 @@ public class Calculadora {
             System.out.println("3. Multiplicación");
             System.out.println("4. División");
             System.out.println("5. Potencias");
-            System.out.print("Elige una operación (1-5): ");
+            System.out.println("6. Raíz cuadrada");
+            System.out.print("Elige una operación (1-6): ");
             operacion = scanner.nextInt();
             System.out.print("Ingresa el primer número: ");
             num1 = scanner.nextDouble();
