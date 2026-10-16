@@ -1,6 +1,6 @@
-// Versión 2.0 - Práctica de Entornos de Desarrollo
+// Versión 2.1 - Práctica de Entornos de Desarrollo
 import java.util.Scanner;
-// Versión 2.0 - Práctica de Entornos de Desarrollo
+// Versión 2.1 - Práctica de Entornos de Desarrollo
 public class Calculadora {
     public static void main(String[] args) {
 
