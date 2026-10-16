@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 // Versión 2.0 - Práctica de Entornos de Desarrollo
 // Corrección de bug de suma
+=======
+// Versión 2.1 - Práctica de Entornos de Desarrollo
+// Comentario diferente en suma
+
+>>>>>>> feature-multiplicacion
 import java.util.Scanner;
-// Versión 2.0 - Práctica de Entornos de Desarrollo
+// Versión 2.1 - Práctica de Entornos de Desarrollo
 public class Calculadora {
     public static void main(String[] args) {
 
