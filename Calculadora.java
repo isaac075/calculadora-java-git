@@ -1,4 +1,6 @@
 // Versión 2.1 - Práctica de Entornos de Desarrollo
+// Comentario diferente en suma
+
 import java.util.Scanner;
 // Versión 2.1 - Práctica de Entornos de Desarrollo
 public class Calculadora {
