@@ -1,4 +1,5 @@
 // Versión 2.0 - Práctica de Entornos de Desarrollo
+// Corrección de bug de suma
 import java.util.Scanner;
 // Versión 2.0 - Práctica de Entornos de Desarrollo
 public class Calculadora {
